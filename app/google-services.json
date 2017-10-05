@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "219787082825",
+    "firebase_url": "https://phone-no-authentication.firebaseio.com",
+    "project_id": "phone-no-authentication",
+    "storage_bucket": "phone-no-authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219787082825:android:a017d59fa062bc8f",
+        "android_client_info": {
+          "package_name": "com.example.sravanthy.phonenumber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219787082825-ftpt6d31hi6ppdid63gdrq8r976e682k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo0haYWrKBbyCqTDSPP5RP5UtNSuwDw90"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
